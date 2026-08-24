@@ -1,3 +1,0 @@
-Django==4.2.30
-psycopg[binary]
-djangorestframework==3.15.2
